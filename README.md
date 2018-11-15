@@ -6,8 +6,8 @@ It uses Spring RestTempate to call third party open rest webservice : https://ap
 to get available ATM's
 
 # Technology Used
- Java 8
- Spring Boot/Spring Rest Template
- Junit
+ Java 8,
+ Spring Boot/Spring Rest Template,
+ Junit,
  Mockito 
  
