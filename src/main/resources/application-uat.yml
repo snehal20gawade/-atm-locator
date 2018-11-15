@@ -1,0 +1,7 @@
+server:
+  port: 8083
+
+atm:
+  url:
+    openweb: https://apis-bank-uat.apigee.net/apis/v1/locations/atms
+
